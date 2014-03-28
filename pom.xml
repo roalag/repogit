@@ -3,7 +3,7 @@
 	<groupId>org.upv.ufasu</groupId>
 	<artifactId>weather-multimodule</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>weather-multimodule Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<description>Practica de la sesion 5</description>
